@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Visits
+
+![Visitor Count](https://profile-counter.glitch.me/MnoZombie956/count.svg)
+
+
+
