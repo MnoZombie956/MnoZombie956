@@ -1,21 +1,9 @@
-<!--
-**MnoZombie956/MnoZombie956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Visits
-
+### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/MnoZombie956/count.svg)
+
+### Wrapped Stats
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/MnoZombie956/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/MnoZombie956/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
 
 
 
